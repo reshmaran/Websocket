@@ -46,7 +46,7 @@ clone application by using the url
       "error": "Bad formatted payload, non JSON",
       "updatedAt": ***
       }
-10.In addition to this methods, server should produce heartbeat events every second:
+10. In addition to this methods, server should produce heartbeat events every second:
       {
       "type": heartbeat,
       "updatedAt": ***
